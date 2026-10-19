@@ -4,7 +4,7 @@ The educational materials and synthetic healthcare dataset in this repository ar
 You are free to use, share, distribute and adapt these materials for educational, research and other purposes, including commercial use, provided appropriate attribution is given.<br><br>
 When reusing these materials, please credit:<br>
 **Dr Alan Davies — Health Data Works Ltd.**<br>
-*SQLite Primer: Learn SQL with Healthcare Data*<br><br>
+*SQLite Primer: Learn SQL with Healthcare Data*<br>
 https://github.com/alandavies544592/SQLite-primer-dataset-and-activities- <br>
 Licence: https://creativecommons.org/licenses/by/4.0/ <br>
 Please indicate if you have made changes to the original materials.<br><br>
